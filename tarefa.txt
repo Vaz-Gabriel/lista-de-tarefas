@@ -1,0 +1,8 @@
+1. Revisar o layout do site institucional
+2. Atualizar a planilha de controle financeiro mensal
+3. Agendar reunião com a equipe de marketing
+4. Corrigir bugs relatados no módulo de login
+5. Realizar backup completo do servidor
+6. Preparar apresentação para a reunião de stakeholders
+7. Responder e-mails pendentes dos clientes
+8. Implementar nova funcionalidade de pesquisa no sistema
