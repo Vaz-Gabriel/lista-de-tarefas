@@ -6,3 +6,12 @@
 6. Preparar apresentação para a reunião de stakeholders
 7. Responder e-mails pendentes dos clientes
 8. Implementar nova funcionalidade de pesquisa no sistema
+
+Alterado por João Pedro:
+
+1. Atualizar a documentação do sistema de inventário.
+2. Fazer revisão ortográfica nas descrições dos produtos no e-commerce.
+3. Agendar treinamento interno sobre segurança da informação.
+4. Testar nova funcionalidade de exportação de relatórios em PDF.
+5. Criar rascunho do e-mail marketing para lançamento do novo produto.
+6.Configurar alertas automáticos de backup no servidor.
