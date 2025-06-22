@@ -1,4 +1,4 @@
-Ideias de melhorias para o projeto Lista de Tarefas:
+Ideias de melhorias para o projeto Lista de Tarefas || Ajustado por Vaz
 
 1. Implementar sistema de login com autenticação de usuário.
 2. Adicionar a opção de marcar tarefas como concluídas com checkbox.
