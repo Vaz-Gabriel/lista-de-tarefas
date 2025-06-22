@@ -1,4 +1,4 @@
-Ideias de melhorias para o projeto Lista de Tarefas || Ajustado por Vaz
+Ideias de melhorias para o projeto Lista de Tarefas:
 
 1. Implementar sistema de login com autenticação de usuário.
 2. Adicionar a opção de marcar tarefas como concluídas com checkbox.
@@ -6,3 +6,13 @@ Ideias de melhorias para o projeto Lista de Tarefas || Ajustado por Vaz
 4. Integrar com banco de dados para persistência das tarefas.
 5. Criar interface responsiva para uso em dispositivos móveis.
 6. Adicionar filtros de tarefas (concluídas, pendentes, todas).
+
+
+Alterado por João Pedro:
+
+1. Adicionar sistema de categorias ou tags para organizar melhor as tarefas.
+2. Implementar notificações ou lembretes, via e-mail ou alertas na tela.
+3. Permitir anexar arquivos (ex: documentos ou imagens) às tarefas.
+4. Criar um sistema de prioridade (baixa, média, alta) para as tarefas.
+5. Incluir histórico de alterações em cada tarefa (quem editou, quando e o que mudou).
+6. Permitir tarefas recorrentes, como "toda segunda-feira" ou "a cada 30 dias".
