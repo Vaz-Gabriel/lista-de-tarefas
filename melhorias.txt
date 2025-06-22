@@ -1,0 +1,8 @@
+Ideias de melhorias para o projeto Lista de Tarefas:
+
+1. Implementar sistema de login com autenticação de usuário.
+2. Adicionar a opção de marcar tarefas como concluídas com checkbox.
+3. Permitir edição de tarefas já cadastradas.
+4. Integrar com banco de dados para persistência das tarefas.
+5. Criar interface responsiva para uso em dispositivos móveis.
+6. Adicionar filtros de tarefas (concluídas, pendentes, todas).
