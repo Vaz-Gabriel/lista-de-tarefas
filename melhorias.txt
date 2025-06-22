@@ -16,4 +16,3 @@ Alterado por João Pedro:
 4. Criar um sistema de prioridade (baixa, média, alta) para as tarefas.
 5. Incluir histórico de alterações em cada tarefa (quem editou, quando e o que mudou).
 6. Permitir tarefas recorrentes, como "toda segunda-feira" ou "a cada 30 dias".
-
